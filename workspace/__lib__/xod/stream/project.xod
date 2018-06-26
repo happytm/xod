@@ -1,0 +1,9 @@
+{
+  "authors": [
+    "XOD"
+  ],
+  "description": "",
+  "license": "AGPL-3.0",
+  "name": "stream",
+  "version": "0.22.0"
+}
