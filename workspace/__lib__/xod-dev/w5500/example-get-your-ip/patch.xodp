@@ -1,0 +1,533 @@
+{
+  "comments": [
+    {
+      "content": "`connect-dhcp` is blocking.\nGive lcd-display a chance to update",
+      "id": "B1iWF68KRZQ",
+      "position": {
+        "x": 272,
+        "y": 0
+      },
+      "size": {
+        "height": 51,
+        "width": 272
+      }
+    }
+  ],
+  "links": [
+    {
+      "id": "B1VFPoR-Q",
+      "input": {
+        "nodeId": "H11vZoAZm",
+        "pinKey": "BJYbP7CZm"
+      },
+      "output": {
+        "nodeId": "Hy7vDi0bm",
+        "pinKey": "SkSGwoAZQ"
+      }
+    },
+    {
+      "id": "BJZZFp8tCb7",
+      "input": {
+        "nodeId": "rkxgYTUF0b7",
+        "pinKey": "ryv7IRdSP1b"
+      },
+      "output": {
+        "nodeId": "BJHF6IYCWX",
+        "pinKey": "rJ_28QFWm"
+      }
+    },
+    {
+      "id": "Bk5xF6IFCZX",
+      "input": {
+        "nodeId": "HyAFTLt0bX",
+        "pinKey": "S10pBvSb7"
+      },
+      "output": {
+        "nodeId": "rk4tTIFRZ7",
+        "pinKey": "B1x2RV3eZ"
+      }
+    },
+    {
+      "id": "Bkpjo7zGX",
+      "input": {
+        "nodeId": "B1-jimffX",
+        "pinKey": "ryv7IRdSP1b"
+      },
+      "output": {
+        "nodeId": "ByhF68K0-Q",
+        "pinKey": "S1lO1qKZfX"
+      }
+    },
+    {
+      "id": "BygaJjAW7",
+      "input": {
+        "nodeId": "H1UKTLKAZX",
+        "pinKey": "BySwntIW7"
+      },
+      "output": {
+        "nodeId": "H1TqkjAWQ",
+        "pinKey": "S1s7pCDbQ"
+      }
+    },
+    {
+      "id": "BylbtaLY0ZQ",
+      "input": {
+        "nodeId": "S1QYaLYRZ7",
+        "pinKey": "BJqntfKbm"
+      },
+      "output": {
+        "nodeId": "rk4tTIFRZ7",
+        "pinKey": "B1x2RV3eZ"
+      }
+    },
+    {
+      "id": "H1-lKT8F0Z7",
+      "input": {
+        "nodeId": "HyjY6UKRbQ",
+        "pinKey": "H17mp7ZZX"
+      },
+      "output": {
+        "nodeId": "BygKTLK0bX",
+        "pinKey": "H1ZF4M-bQ"
+      }
+    },
+    {
+      "id": "H1NZK6UKCZQ",
+      "input": {
+        "nodeId": "rkxgYTUF0b7",
+        "pinKey": "ByU7LRuSPkW"
+      },
+      "output": {
+        "nodeId": "HyAFTLt0bX",
+        "pinKey": "S1RkGwrbm"
+      }
+    },
+    {
+      "id": "H1Pbta8FCW7",
+      "input": {
+        "nodeId": "ByhF68K0-Q",
+        "pinKey": "ryVHuY8Z7"
+      },
+      "output": {
+        "nodeId": "BygKTLK0bX",
+        "pinKey": "S1JoNz--m"
+      }
+    },
+    {
+      "id": "H1PubsRWm",
+      "input": {
+        "nodeId": "H1TqkjAWQ",
+        "pinKey": "r1NYhRDZ7"
+      },
+      "output": {
+        "nodeId": "H11vZoAZm",
+        "pinKey": "r1XBwQCWQ"
+      }
+    },
+    {
+      "id": "S13d_tJzQ",
+      "input": {
+        "nodeId": "HyAFTLt0bX",
+        "pinKey": "Byx-7vSZX"
+      },
+      "output": {
+        "nodeId": "BygKTLK0bX",
+        "pinKey": "S1JoNz--m"
+      }
+    },
+    {
+      "id": "S1FgY68YRZm",
+      "input": {
+        "nodeId": "BJHF6IYCWX",
+        "pinKey": "SJ6UUXKWX"
+      },
+      "output": {
+        "nodeId": "rJDtpIYAWQ",
+        "pinKey": "HyhagPBZX"
+      }
+    },
+    {
+      "id": "S1hgFa8YCZm",
+      "input": {
+        "nodeId": "H1UKTLKAZX",
+        "pinKey": "By2BdYUZQ"
+      },
+      "output": {
+        "nodeId": "rkxgYTUF0b7",
+        "pinKey": "ByHmL0uHPk-"
+      }
+    },
+    {
+      "id": "SJ7xtTLF0-m",
+      "input": {
+        "nodeId": "BygKTLK0bX",
+        "pinKey": "rybXwZH-X"
+      },
+      "output": {
+        "nodeId": "rJMFpLF0-7",
+        "pinKey": "SJqcJZSW7"
+      }
+    },
+    {
+      "id": "SkM-t6UKAWm",
+      "input": {
+        "nodeId": "BkYKp8YCZm",
+        "pinKey": "B1TSE9tZ-"
+      },
+      "output": {
+        "nodeId": "ByhF68K0-Q",
+        "pinKey": "HydMkq8-m"
+      }
+    },
+    {
+      "id": "SyCxKTUK0bX",
+      "input": {
+        "nodeId": "BkYKp8YCZm",
+        "pinKey": "H1bLN9F-b"
+      },
+      "output": {
+        "nodeId": "H1UKTLKAZX",
+        "pinKey": "HydMkq8-m"
+      }
+    },
+    {
+      "id": "SyHZF68tCWQ",
+      "input": {
+        "nodeId": "HyAFTLt0bX",
+        "pinKey": "Skzq-vr-Q"
+      },
+      "output": {
+        "nodeId": "rJDtpIYAWQ",
+        "pinKey": "HyhagPBZX"
+      }
+    },
+    {
+      "id": "Syf0s7Gzm",
+      "input": {
+        "nodeId": "H1UKTLKAZX",
+        "pinKey": "ryVHuY8Z7"
+      },
+      "output": {
+        "nodeId": "BJHF6IYCWX",
+        "pinKey": "Syfp8XtbQ"
+      }
+    },
+    {
+      "id": "r13KwjAbX",
+      "input": {
+        "nodeId": "Hy7vDi0bm",
+        "pinKey": "B18iIoA-m"
+      },
+      "output": {
+        "nodeId": "BJHF6IYCWX",
+        "pinKey": "BkCR8mKWX"
+      }
+    },
+    {
+      "id": "r1EiiQMz7",
+      "input": {
+        "nodeId": "BkYKp8YCZm",
+        "pinKey": "HkMi4t8xX"
+      },
+      "output": {
+        "nodeId": "B1-jimffX",
+        "pinKey": "ByHmL0uHPk-"
+      }
+    },
+    {
+      "id": "r1_WYpLYA-7",
+      "input": {
+        "nodeId": "ByhF68K0-Q",
+        "pinKey": "BySwntIW7"
+      },
+      "output": {
+        "nodeId": "HyjY6UKRbQ",
+        "pinKey": "By1xaQb-m"
+      }
+    },
+    {
+      "id": "r1csiXzM7",
+      "input": {
+        "nodeId": "B1-jimffX",
+        "pinKey": "ByU7LRuSPkW"
+      },
+      "output": {
+        "nodeId": "H1UKTLKAZX",
+        "pinKey": "S1lO1qKZfX"
+      }
+    },
+    {
+      "id": "rJ8KPjRWm",
+      "input": {
+        "nodeId": "H11vZoAZm",
+        "pinKey": "r1CWwm0b7"
+      },
+      "output": {
+        "nodeId": "Hy7vDi0bm",
+        "pinKey": "SkYZwiRbm"
+      }
+    },
+    {
+      "id": "rJcZFp8YRZQ",
+      "input": {
+        "nodeId": "BJHF6IYCWX",
+        "pinKey": "S1zU8XKZQ"
+      },
+      "output": {
+        "nodeId": "S1QYaLYRZ7",
+        "pinKey": "H1leYGFbm"
+      }
+    },
+    {
+      "id": "rJfxFpUFC-m",
+      "input": {
+        "nodeId": "rJOKpUF0WQ",
+        "pinKey": "BJI7P8t9Z"
+      },
+      "output": {
+        "nodeId": "ByZYpUKAZX",
+        "pinKey": "ryVmUAOrvkb"
+      }
+    },
+    {
+      "id": "rkSgFT8F0-m",
+      "input": {
+        "nodeId": "BJHF6IYCWX",
+        "pinKey": "BkZFIXtb7"
+      },
+      "output": {
+        "nodeId": "HyAFTLt0bX",
+        "pinKey": "BJo1fvrZQ"
+      }
+    },
+    {
+      "id": "rkru-iAZQ",
+      "input": {
+        "nodeId": "H1TqkjAWQ",
+        "pinKey": "HJi_30PZX"
+      },
+      "output": {
+        "nodeId": "H11vZoAZm",
+        "pinKey": "By5Vv7C-7"
+      }
+    },
+    {
+      "id": "ry9KwjCWm",
+      "input": {
+        "nodeId": "Hy7vDi0bm",
+        "pinKey": "rklUo8jA-Q"
+      },
+      "output": {
+        "nodeId": "BJHF6IYCWX",
+        "pinKey": "ByZTUmFbX"
+      }
+    },
+    {
+      "id": "ryjet6IFRZm",
+      "input": {
+        "nodeId": "BygKTLK0bX",
+        "pinKey": "SyotNz-bm"
+      },
+      "output": {
+        "nodeId": "rJOKpUF0WQ",
+        "pinKey": "HJhXDIY9-"
+      }
+    },
+    {
+      "id": "ryk-YT8KCbm",
+      "input": {
+        "nodeId": "ByhF68K0-Q",
+        "pinKey": "By2BdYUZQ"
+      },
+      "output": {
+        "nodeId": "BygKTLK0bX",
+        "pinKey": "HJtoNM--m"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "B1-jimffX",
+      "position": {
+        "x": 476,
+        "y": 816
+      },
+      "type": "xod/core/any"
+    },
+    {
+      "id": "BJHF6IYCWX",
+      "position": {
+        "x": 544,
+        "y": 204
+      },
+      "type": "@/request"
+    },
+    {
+      "boundLiterals": {
+        "B1TSE9tZ-": "\"IP:\"",
+        "H1bLN9F-b": "\"\"",
+        "rJlYT7EfW": "3Ah"
+      },
+      "id": "BkYKp8YCZm",
+      "position": {
+        "x": 306,
+        "y": 918
+      },
+      "type": "xod/common-hardware/text-lcd-16x2-i2c"
+    },
+    {
+      "id": "ByZYpUKAZX",
+      "position": {
+        "x": 238,
+        "y": -102
+      },
+      "type": "xod/core/boot"
+    },
+    {
+      "boundLiterals": {
+        "SyotNz-bm": "Never"
+      },
+      "id": "BygKTLK0bX",
+      "position": {
+        "x": 102,
+        "y": 102
+      },
+      "type": "@/connect-dhcp"
+    },
+    {
+      "boundLiterals": {
+        "SkGDnKI-X": "\"DHCP...\"",
+        "SklBv2YL-X": "\"DHCP Fail\""
+      },
+      "id": "ByhF68K0-Q",
+      "position": {
+        "x": 136,
+        "y": 714
+      },
+      "type": "@/done-err"
+    },
+    {
+      "boundLiterals": {
+        "S1a8PX0Wm": "On Boot",
+        "S1bGvmAWQ": "34d"
+      },
+      "id": "H11vZoAZm",
+      "position": {
+        "x": 510,
+        "y": 408
+      },
+      "type": "xod/stream/pass-until"
+    },
+    {
+      "id": "H1TqkjAWQ",
+      "position": {
+        "x": 476,
+        "y": 510
+      },
+      "type": "xod/stream/accumulate-string"
+    },
+    {
+      "boundLiterals": {
+        "BySwntIW7": "\"Connected\"",
+        "SkGDnKI-X": "\"...\"",
+        "SklBv2YL-X": "\"Error\""
+      },
+      "id": "H1UKTLKAZX",
+      "position": {
+        "x": 544,
+        "y": 714
+      },
+      "type": "@/done-err"
+    },
+    {
+      "boundLiterals": {
+        "rkZ8oIj0-m": "\"origin\":\"\""
+      },
+      "id": "Hy7vDi0bm",
+      "position": {
+        "x": 510,
+        "y": 306
+      },
+      "type": "xod/stream/pass-from-sequence(byte,string)"
+    },
+    {
+      "id": "HyAFTLt0bX",
+      "position": {
+        "x": 612,
+        "y": 0
+      },
+      "type": "@/client-connect(string)"
+    },
+    {
+      "id": "HyjY6UKRbQ",
+      "position": {
+        "x": 102,
+        "y": 612
+      },
+      "type": "xod/net/format-ip"
+    },
+    {
+      "boundLiterals": {
+        "HkcCKGYZ7": "\"/ip\""
+      },
+      "id": "S1QYaLYRZ7",
+      "position": {
+        "x": 714,
+        "y": 102
+      },
+      "type": "xod/net/http-request-message"
+    },
+    {
+      "id": "rJDtpIYAWQ",
+      "position": {
+        "x": 544,
+        "y": -102
+      },
+      "type": "@/client"
+    },
+    {
+      "boundLiterals": {
+        "H1GI-g-SW7": "EFh",
+        "HkZ8bgWBZ7": "BEh",
+        "HyUblWBbQ": "DEh",
+        "HylLbx-S-X": "ADh",
+        "SJVUWgWHWm": "EDh",
+        "ryXU-eWSbQ": "FEh"
+      },
+      "id": "rJMFpLF0-7",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "type": "xod/net/mac-address"
+    },
+    {
+      "id": "rJOKpUF0WQ",
+      "position": {
+        "x": 238,
+        "y": 0
+      },
+      "type": "xod/core/defer"
+    },
+    {
+      "boundLiterals": {
+        "B1x2RV3eZ": "\"httpbin.org\""
+      },
+      "id": "rk4tTIFRZ7",
+      "label": "HOST",
+      "position": {
+        "x": 748,
+        "y": -102
+      },
+      "type": "xod/core/constant-string"
+    },
+    {
+      "id": "rkxgYTUF0b7",
+      "position": {
+        "x": 714,
+        "y": 408
+      },
+      "type": "xod/core/any"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "HyhagPBZX",
+      "position": {
+        "x": 34,
+        "y": 102
+      },
+      "type": "xod/patch-nodes/output-self"
+    },
+    {
+      "id": "rkMCxPBWX",
+      "position": {
+        "x": 34,
+        "y": 0
+      },
+      "type": "xod/patch-nodes/not-implemented-in-xod"
+    }
+  ]
+}

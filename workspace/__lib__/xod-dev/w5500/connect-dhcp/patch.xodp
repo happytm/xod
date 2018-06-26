@@ -1,0 +1,72 @@
+{
+  "nodes": [
+    {
+      "id": "H1ZF4M-bQ",
+      "label": "IP",
+      "position": {
+        "x": 34,
+        "y": 204
+      },
+      "type": "xod/net/output-ip-address"
+    },
+    {
+      "id": "HJtoNM--m",
+      "label": "ERR",
+      "position": {
+        "x": 238,
+        "y": 204
+      },
+      "type": "xod/patch-nodes/output-pulse"
+    },
+    {
+      "id": "S1JoNz--m",
+      "label": "DONE",
+      "position": {
+        "x": 136,
+        "y": 204
+      },
+      "type": "xod/patch-nodes/output-pulse"
+    },
+    {
+      "boundLiterals": {
+        "__out__": "On Boot"
+      },
+      "id": "SyotNz-bm",
+      "label": "INIT",
+      "position": {
+        "x": 238,
+        "y": 0
+      },
+      "type": "xod/patch-nodes/input-pulse"
+    },
+    {
+      "id": "r1U0EGbWm",
+      "position": {
+        "x": 34,
+        "y": 102
+      },
+      "type": "xod/patch-nodes/not-implemented-in-xod"
+    },
+    {
+      "boundLiterals": {
+        "__out__": "D10"
+      },
+      "id": "rJ6fp5cWQ",
+      "label": "CS",
+      "position": {
+        "x": 136,
+        "y": 0
+      },
+      "type": "xod/patch-nodes/input-port"
+    },
+    {
+      "id": "rybXwZH-X",
+      "label": "MAC",
+      "position": {
+        "x": 34,
+        "y": 0
+      },
+      "type": "xod/net/input-mac-address"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "ByfUZPNUZQ",
+      "label": "ERR",
+      "position": {
+        "x": 101,
+        "y": 203
+      },
+      "type": "xod/patch-nodes/output-pulse"
+    },
+    {
+      "description": "Server IP",
+      "id": "HyBMv4Ib7",
+      "label": "IP",
+      "position": {
+        "x": 102,
+        "y": 0
+      },
+      "type": "xod/net/input-ip-address"
+    },
+    {
+      "id": "S1lL-D4Lb7",
+      "label": "INIT",
+      "position": {
+        "x": 305,
+        "y": -1
+      },
+      "type": "xod/patch-nodes/input-pulse"
+    },
+    {
+      "boundLiterals": {
+        "__out__": "80"
+      },
+      "id": "SJr8-w4U-7",
+      "label": "PORT",
+      "position": {
+        "x": 203,
+        "y": -1
+      },
+      "type": "xod/patch-nodes/input-number"
+    },
+    {
+      "id": "r1LbDNUb7",
+      "label": "DONE",
+      "position": {
+        "x": -1,
+        "y": 203
+      },
+      "type": "xod/patch-nodes/output-pulse"
+    },
+    {
+      "id": "r1m8WP4LWQ",
+      "position": {
+        "x": -1,
+        "y": 101
+      },
+      "type": "xod/patch-nodes/not-implemented-in-xod"
+    },
+    {
+      "description": "Client",
+      "id": "ry48-wEIW7",
+      "label": "CL",
+      "position": {
+        "x": -1,
+        "y": -1
+      },
+      "type": "@/input-client"
+    }
+  ]
+}
